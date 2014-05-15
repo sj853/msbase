@@ -1,0 +1,41 @@
+<script type="text/javascript">
+        Ext.onReady(function () {
+            //创建一个窗体
+            var win = new Ext.Window({
+                width: 300,
+                height:300,
+                items: [
+                ],
+                modal: true,
+                buttonAlign: 'center',
+                buttons: [{
+                    text: '测试', 
+                    id: 'btnTest', 
+                    handler: function () {
+       					var win = this.up('window');
+       					Ext.Ajax.request( {
+									  url : '__MODULE__/User/getUsers',
+									  method : 'post',
+									  params : {
+									  },
+									  success : function(response, options) {
+									   var o = Ext.util.JSON.decode(response.responseText);
+									   var html = "";
+									   Ext.Object.each(o, function(key, value, myself) {
+									   		html += value.name;
+    										win.update(html);
+    										});
+									  },
+									  failure : function() {
+									  }
+								 });
+                    }
+                }
+                ]
+            });
+            win.show();
+        });
+
+        
+    </script>
+

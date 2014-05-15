@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title id="page-title">Account Manager</title>
+
+    <!-- GC -->
+   <link href="Public/js/extjs/theme/ext-theme-neptune-touch/ext-theme-neptune-touch-all.css" rel="stylesheet" type="text/css" />
+    <!-- <x-compile> -->
+    <!-- <x-bootstrap> -->
+    <script type="text/javascript" src="__PUBLIC__/js/extjs/bootstrap.js?nodebug"></script>
+    <script type="text/javascript" src="__PUBLIC__/js/extjs/ext-locale-zh_CN.js"></script>
+    <!-- </x-bootstrap> -->
+    <!--<script type="text/javascript" src="__PUBLIC__/js/app.js"></script>-->
+    <!-- </x-compile> -->
+</head>
+<body>
+<script type="text/javascript">
+        Ext.onReady(function () {
+            //创建一个窗体
+            var win = new Ext.Window({
+                width: 300,
+                height:300,
+                items: [],
+                modal: true,
+                buttonAlign: 'center',
+                buttons: [{
+                    text: '测试', id: 'btnTest', handler: function () {
+                        Ext.Msg.show({
+                            title: '询问',
+                            msg: '您喜欢 ExtJs 吗？',
+                            fn: processResult,
+                            icon: Ext.Msg.QUESTION,
+                            buttons: Ext.Msg.YESNO
+                        });
+                    }
+                }
+                ]
+            });
+            win.show();
+        });
+
+        //询问对话框处理Handler
+        function processResult(btn) {
+            Ext.Msg.alert('结果', btn);
+        }
+    </script>
+</body>
+</html>
