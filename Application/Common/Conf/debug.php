@@ -1,7 +1,7 @@
 <?php
 /**
  * Created on 2014��5��15�� by elemeNT
- *  TODO 
+ *  TODO debug配置
  * 
  */
  return array(

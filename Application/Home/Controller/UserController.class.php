@@ -1,7 +1,15 @@
 <?php
 namespace Home\Controller;
 use Think\Controller;
+use Home\Service\UserService;
+use \SoapClient;
 class UserController extends Controller {
+    
+    private $_userService;
+    
+    public function __construct(){
+    		$this->_userService = new UserService();
+    }
     
     public function _before_getUsers(){
 		//echo "-------before---------";    	
@@ -14,5 +22,8 @@ class UserController extends Controller {
     	);
     	$this->ajaxReturn($users);
     }
-     
+    
+    public function login(){ 
+		    	$this->_userService->authLogin();
+    }
 }

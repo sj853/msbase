@@ -4,5 +4,6 @@ return array (
 	'TMPL_PARSE_STRING' => array (
 		'__EXTJS__' => 'Public/js/extjs',
 		'__EXTJS_THEME__' => 'Public/js/extjs/theme',
-	)
+	),
+	'LOAD_EXT_CONFIG' => 'ws_api'
 );

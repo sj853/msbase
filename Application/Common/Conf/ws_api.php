@@ -6,6 +6,6 @@
  */
  
  return array(
- 	'API_ROOT' => 'xxx',
+ 	'WS_ROOT' => 'http://192.168.13.67:6000/?wsdl',
  );
 ?>
