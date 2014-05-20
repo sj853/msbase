@@ -1,0 +1,295 @@
+[ 2014-05-20T13:39:57+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000857s ]
+
+[ 2014-05-20T13:40:08+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-all.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:40:08+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:40:08+08:00 ] ::1 /msbase/Home/Public/js/extjs/theme/ext-theme-neptune-touch/ext-theme-neptune-touch-all.css
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:40:08+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:40:23+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:40:23+08:00 ] ::1 /msbase/Home/Public/js/extjs/theme/ext-theme-neptune-touch/ext-theme-neptune-touch-all.css
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:40:23+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-all.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:40:23+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:40:28+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:40:28+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-all.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:40:28+08:00 ] ::1 /msbase/Home/Public/js/extjs/theme/ext-theme-neptune-touch/ext-theme-neptune-touch-all.css
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:40:28+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:40:35+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:40:35+08:00 ] ::1 /msbase/Home/Public/js/extjs/theme/ext-theme-neptune-touch/ext-theme-neptune-touch-all.css
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:40:35+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-all.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:40:35+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:45:46+08:00 ] ::1 /msbase/Home/Public/js/extjs/theme/ext-theme-neptune-touch/ext-theme-neptune-touch-all.css
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:45:46+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:45:46+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-all.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:45:46+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:50:28+08:00 ] ::1 /msbase/Home/Index/Public/js/extjs/ext-all.js
+ERR: 非法操作:Public
+
+[ 2014-05-20T13:50:28+08:00 ] ::1 /msbase/Home/Index/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 非法操作:Public
+
+[ 2014-05-20T13:50:28+08:00 ] ::1 /msbase/Home/Index/Public/js/extjs/theme/ext-theme-neptune-touch/ext-theme-neptune-touch-all.css
+ERR: 非法操作:Public
+
+[ 2014-05-20T13:50:28+08:00 ] ::1 /msbase/Home/Index/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 非法操作:Public
+
+[ 2014-05-20T13:50:31+08:00 ] ::1 /msbase/Home/Index/Public/js/extjs/ext-all.js
+ERR: 非法操作:Public
+
+[ 2014-05-20T13:50:31+08:00 ] ::1 /msbase/Home/Index/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 非法操作:Public
+
+[ 2014-05-20T13:50:31+08:00 ] ::1 /msbase/Home/Index/Public/js/extjs/theme/ext-theme-neptune-touch/ext-theme-neptune-touch-all.css
+ERR: 非法操作:Public
+
+[ 2014-05-20T13:50:31+08:00 ] ::1 /msbase/Home/Index/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 非法操作:Public
+
+[ 2014-05-20T13:50:41+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000869s ]
+
+[ 2014-05-20T13:50:49+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+
+[ 2014-05-20T13:50:49+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000931s ]
+
+[ 2014-05-20T13:50:49+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+
+[ 2014-05-20T13:50:49+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000840s ]
+
+[ 2014-05-20T13:50:50+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+
+[ 2014-05-20T13:50:50+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+
+[ 2014-05-20T13:50:53+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+
+[ 2014-05-20T13:50:53+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+
+[ 2014-05-20T13:50:54+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+
+[ 2014-05-20T13:50:54+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+
+[ 2014-05-20T13:50:54+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000870s ]
+
+[ 2014-05-20T13:51:21+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-all.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:51:21+08:00 ] ::1 /msbase/Home/Public/js/extjs/theme/ext-theme-neptune-touch/ext-theme-neptune-touch-all.css
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:51:21+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T13:51:21+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T14:02:15+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+
+[ 2014-05-20T14:03:25+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000840s ]
+
+[ 2014-05-20T14:03:25+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000802s ]
+
+[ 2014-05-20T14:03:25+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+
+[ 2014-05-20T14:05:57+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+
+[ 2014-05-20T14:05:57+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+
+[ 2014-05-20T14:06:12+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+
+[ 2014-05-20T14:16:02+08:00 ] ::1 /msbase/Home/Public/js/extjs/theme/ext-theme-neptune-touch/ext-theme-neptune-touch-all.css
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T14:16:02+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-all.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T14:16:02+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T14:16:02+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T15:00:14+08:00 ] ::1 /msbase/Home/User/
+ERR: 非法操作:index
+
+[ 2014-05-20T15:07:00+08:00 ] ::1 /msbase/Home/User/authLogin
+ERR: SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://192.168.13.67:6000/?wsdl' : failed to load external entity "http://192.168.13.67:6000/?wsdl"
+
+
+[ 2014-05-20T15:07:26+08:00 ] ::1 /msbase/Home/User/authLogin
+ERR: SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://192.168.13.67:6000/?wsdl' : failed to load external entity "http://192.168.13.67:6000/?wsdl"
+
+
+[ 2014-05-20T15:35:22+08:00 ] ::1 /msbase/Home/User/authLogin
+ERR: SoapClient::SoapClient() [<a href='soapclient.soapclient'>soapclient.soapclient</a>]: 'location' and 'uri' options are required in nonWSDL mode
+
+[ 2014-05-20T15:35:27+08:00 ] ::1 /msbase/Home/User/authLogin
+ERR: SoapClient::SoapClient() [<a href='soapclient.soapclient'>soapclient.soapclient</a>]: 'location' and 'uri' options are required in nonWSDL mode
+
+[ 2014-05-20T15:56:30+08:00 ] ::1 /msbase/Home/User/authLogin
+ERR: SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://192.168.13.67:6000/?wsdl' : failed to load external entity "http://192.168.13.67:6000/?wsdl"
+
+
+[ 2014-05-20T17:38:00+08:00 ] ::1 /msbase/Home/Public/js/extjs/theme/ext-theme-neptune-touch/ext-theme-neptune-touch-all.css
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T17:38:00+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T17:38:00+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-all.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T17:38:00+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T17:40:25+08:00 ] ::1 /msbase/Home/User/login
+ERR: SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://192.168.13.67:6000/?wsdl' : failed to load external entity "http://192.168.13.67:6000/?wsdl"
+
+
+[ 2014-05-20T18:09:43+08:00 ] ::1 /msbase/HOme
+ERR: 无法加载控制器:Index
+
+[ 2014-05-20T18:09:46+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-all.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T18:09:46+08:00 ] ::1 /msbase/Home/Public/js/extjs/theme/ext-theme-neptune-touch/ext-theme-neptune-touch-all.css
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T18:09:46+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T18:09:46+08:00 ] ::1 /msbase/Home/Public/js/extjs/ext-locale-zh_CN.js
+ERR: 无法加载控制器:Public
+
+[ 2014-05-20T18:09:54+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+
+[ 2014-05-20T18:20:16+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+
+[ 2014-05-20T18:28:48+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+
+[ 2014-05-20T18:28:58+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+
+[ 2014-05-20T18:29:28+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+
+[ 2014-05-20T18:29:28+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+
+[ 2014-05-20T18:32:27+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+

@@ -1,0 +1,5 @@
+[ 2014-05-15T18:20:44+08:00 ] ::1 /msbase/index.php/Home/User/getUsers
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+
