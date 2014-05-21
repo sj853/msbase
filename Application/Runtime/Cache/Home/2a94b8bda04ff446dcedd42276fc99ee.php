@@ -6,13 +6,13 @@
     <title id="page-title">Account Manager</title>
 
     <!-- GC -->
-   <link href="Public/js/extjs/theme/ext-theme-neptune-touch/ext-theme-neptune-touch-all.css" rel="stylesheet" type="text/css" />
+   <link href="/msbase/Public/js/extjs/theme/ext-theme-neptune-touch/ext-theme-neptune-touch-all.css" rel="stylesheet" type="text/css" />
     <!-- <x-compile> -->
     <!-- <x-bootstrap> -->
-    <script type="text/javascript" src="Public/js/extjs/ext-all.js"></script>
-    <script type="text/javascript" src="Public/js/extjs/ext-locale-zh_CN.js"></script>
+    <script type="text/javascript" src="/msbase/Public/js/extjs/ext-all.js"></script>
+    <script type="text/javascript" src="/msbase/Public/js/extjs/ext-locale-zh_CN.js"></script>
     <!-- </x-bootstrap> -->
-    <!--<script type="text/javascript" src="Public/js/extjs/js/app.js"></script>-->
+    <!--<script type="text/javascript" src="/msbase/Public/js/extjs/js/app.js"></script>-->
     <!-- </x-compile> -->
 </head>
 <body>

@@ -107,7 +107,7 @@ class Http {
             stream_set_blocking($fp, $block);
             stream_set_timeout($fp, $timeout);
             @fwrite($fp, $out);
-            $status = stream_get_meta_data($fp);
+            $status = stream_get_meta_data($fp); 
             if(!$status['timed_out']) {
                 while (!feof($fp)) {
                     if(($header = @fgets($fp)) && ($header == "\r\n" ||  $header == "\n")) {

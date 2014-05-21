@@ -2,9 +2,9 @@
 namespace Home\Service;
 use Think\Controller;
 use \SoapClient;
-class UserService{
+class UserService extends Service{
     		public function authLogin(){
-			    $client = new SoapClient(C('WS_ROOT'));
+			    $client = new SoapClient(C('WS_HTTP_ROOT'));
 				$client->soap_defencoding = 'utf-8';  
 				$client->decode_utf8 = false;   
 				$client->xml_encoding = 'utf-8'; 
@@ -14,8 +14,6 @@ class UserService{
 					'password'=> "123"
 				);
 				$result = $client->__soapCall("VerifyUser", array( $param ));
-				//$result = $client->__Call("InfoApprove", array( $param ));
-			   echo htmlspecialchars($client->__getLastResponse());
 				if (is_soap_fault($result))
 				{
 					echo "error";	
